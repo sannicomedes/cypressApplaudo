@@ -19,3 +19,6 @@ Verify Customer can filter transactions by date
 
 
 The first 4 were automated during this code challenge
+
+
+To run the tests only type on terminal npx cypress open
